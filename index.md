@@ -10,7 +10,7 @@ aka https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92
 
 You can buy a "Google Logo" receipt for `$500.00`. (Google Logo not included, sent as URL.)
 
-# Wikipedia Logo
+## Wikipedia Logo
 
 <img src="https://en.wikipedia.org/static/images/project-logos/enwiki.png" referrerpolicy="no-referrer" />
 
